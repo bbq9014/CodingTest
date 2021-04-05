@@ -3,7 +3,7 @@
 ## 1. 주요 알고리즘 이론과 실전 문제
 
 ### - 그리디
-
+- [거스름돈 문제](https://github.com/bbq9014/CodingTest/blob/master/Greedy/greedy-1.py)
 ### - 구현
 
 ### - DFS/BFS
