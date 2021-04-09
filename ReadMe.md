@@ -4,6 +4,9 @@
 
 ### - 그리디
 - [거스름돈 문제](https://github.com/bbq9014/CodingTest/blob/master/Greedy/greedy-1.py)
+- [큰 수 법칙 문제](https://github.com/bbq9014/CodingTest/blob/master/Greedy/greedy-2.py)
+- [숫자 카드 게임 문제](https://github.com/bbq9014/CodingTest/blob/master/Greedy/greedy-3.py)
+- [1이 될 때까지 문제](https://github.com/bbq9014/CodingTest/blob/master/Greedy/greedy-4.py)
 ### - 구현
 
 ### - DFS/BFS
